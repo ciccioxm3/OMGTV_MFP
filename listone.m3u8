@@ -58,6 +58,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
@@ -330,9 +333,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rakutentvshows.it" tvg-name="Rakuten Tv Shows" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TV SHOWS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -459,9 +459,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila18.it" tvg-name="Sky Primafila 18" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 18 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -534,7 +531,16 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (3)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (3)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (4)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (4)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (3)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (3)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
@@ -1948,6 +1954,48 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//timlivetu0
 
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="AMA Supercross Championship Concord - AMA Supercross Championship Concord" tvg-name="15:30 AMA Supercross Championship Concord - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="TNT - Supreme Extreme 2022" tvg-name="17:00 TNT: Supreme Extreme 2022 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="Memphis Wrestling, Episode 237 - Carlito has a Problem - Memphis Wrestling, Episode 237 - Carlito has a Problem" tvg-name="18:00 Memphis Wrestling, Episode 237 - Carlito has a Problem - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Whelen Modified Tour at Riverhead Raceway - 2025 NASCAR Whelen Modified Tour at Riverhead Raceway" tvg-name="22:30 2025 NASCAR Whelen Modified Tour at Riverhead Raceway - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="DXCN - Dakila 2025" tvg-name="23:00 DXCN: Dakila 2025 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="Super DIRTcar Series Weedsport - Super DIRTcar Series Weedsport" tvg-name="23:45 Super DIRTcar Series Weedsport - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="2025 Kubota HLR Tuscarora 50 at Port Royal Speedway - 2025 Kubota HLR Tuscarora 50 at Port Royal Speedway" tvg-name="00:00 2025 Kubota HLR Tuscarora 50 at Port Royal Speedway - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 NAPA All Star Circuit of Champions at Michaels Mercer Raceway - 2025 NAPA All Star Circuit of Champions at Michaels Mercer Raceway" tvg-name="00:00 2025 NAPA All Star Circuit of Champions at Michaels Mercer Raceway - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="2025 Fall Clash at Bridgeport Motorsports Park - 2025 Fall Clash at Bridgeport Motorsports Park" tvg-name="00:00 2025 Fall Clash at Bridgeport Motorsports Park - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="2025 Pro Late Model 100 at Berlin Raceway - 2025 Pro Late Model 100 at Berlin Raceway" tvg-name="00:00 2025 Pro Late Model 100 at Berlin Raceway - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="2025 SMART Modified Tour Warrior 100 at Caraway Speedway - 2025 SMART Modified Tour Warrior 100 at Caraway Speedway" tvg-name="00:00 2025 SMART Modified Tour Warrior 100 at Caraway Speedway - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Nascar Weekly Racing Jennerstown - Nascar Weekly Racing Jennerstown" tvg-name="00:15 Nascar Weekly Racing Jennerstown - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="2025 Kubota HLR Tuscarora 50 at Port Royal Speedway - 2025 Kubota HLR Tuscarora 50 at Port Royal Speedway" tvg-name="00:00 2025 Kubota HLR Tuscarora 50 at Port Royal Speedway - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Wrestling Revolver - Clean Slate" tvg-name="03:00 Wrestling Revolver: Clean Slate - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-175.php
+
 #EXTINF:-1 tvg-id="England - League Two - Salford City vs Tranmere Rovers" tvg-name="16:00 England - League Two : Salford City vs Tranmere Rovers - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-69.php
 
